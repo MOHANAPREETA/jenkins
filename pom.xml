@@ -40,11 +40,7 @@
 			<version>5.1.2</version>
 		</dependency>
 
-		<dependency>
-			<groupId>com.junit.demo</groupId>
-			<artifactId>JunitDemo</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+	
 		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
 		<dependency>
 			<groupId>io.cucumber</groupId>
