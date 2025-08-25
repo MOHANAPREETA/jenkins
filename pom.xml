@@ -6,13 +6,7 @@
 	<artifactId>BDD_SauceDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<dependencies>
-		<!--
-		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
-		<dependency>
-			<groupId>org.seleniumhq.selenium</groupId>
-			<artifactId>selenium-chrome-driver</artifactId>
-			<version>4.34.0</version>
-		</dependency>
+		
 
 
 		<!-- Selenium Java for browser automation -->
@@ -52,11 +46,6 @@
 			<groupId>io.cucumber</groupId>
 			<artifactId>cucumber-testng</artifactId>
 			<version>7.27.2</version>
-		</dependency>
-		<dependency>
-			<groupId>com.cg.pom</groupId>
-			<artifactId>POM_Capgemini</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 	<build>
